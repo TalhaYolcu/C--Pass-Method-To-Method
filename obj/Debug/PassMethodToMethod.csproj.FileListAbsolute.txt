@@ -1,0 +1,8 @@
+C:\Users\Bursiyer\Desktop\VSProjects\PassMethodToMethod\PassMethodToMethod\obj\Debug\PassMethodToMethod.csproj.AssemblyReference.cache
+C:\Users\Bursiyer\Desktop\VSProjects\PassMethodToMethod\PassMethodToMethod\obj\Debug\PassMethodToMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bursiyer\Desktop\VSProjects\PassMethodToMethod\PassMethodToMethod\obj\Debug\PassMethodToMethod.csproj.CoreCompileInputs.cache
+C:\Users\Bursiyer\Desktop\VSProjects\PassMethodToMethod\PassMethodToMethod\bin\Debug\PassMethodToMethod.exe.config
+C:\Users\Bursiyer\Desktop\VSProjects\PassMethodToMethod\PassMethodToMethod\bin\Debug\PassMethodToMethod.exe
+C:\Users\Bursiyer\Desktop\VSProjects\PassMethodToMethod\PassMethodToMethod\bin\Debug\PassMethodToMethod.pdb
+C:\Users\Bursiyer\Desktop\VSProjects\PassMethodToMethod\PassMethodToMethod\obj\Debug\PassMethodToMethod.exe
+C:\Users\Bursiyer\Desktop\VSProjects\PassMethodToMethod\PassMethodToMethod\obj\Debug\PassMethodToMethod.pdb
